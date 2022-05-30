@@ -5,9 +5,16 @@
 - 📫 Para entrar em contato comigo: email ou linkedin / How to reach me: email or linkedin.
 - ⚡ Fato curioso: meu primeiro contato com html foi aos 11 anos de idade / Fun fact: On my first contact with html I was 11 years old at that time.
 
+##
+
 <div>
   <a href="https://www.linkedin.com/in/menezesguilherme/">
-  <img heigth = "150em" src="https://github-readme-stats.vercel.app/api?username=guipmenezes&show-icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=guipmenezes&show-icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
-  <img heigth = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipmenezes&layout=compact&langs_count=16&theme=dark"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipmenezes&layout=compact&langs_count=16&theme=dark"/>
 </div>   
+  
+<div style="display: inline-block"><br>
+  <img align="center" alt="JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
