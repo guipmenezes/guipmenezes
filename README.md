@@ -1,6 +1,6 @@
 ### Hello World 👋🌎
 
-- 🌱 Atualmente aprendendo lógica de programação e front-end / I’m currently learning programming logic and front-end development.
+- 🌱 Atualmente aprendendo front-end / I’m currently learning front-end development.
 - 📚 Estudante da Oracle Next Education / Student in Oracle Next Education.
 - 📫 Para entrar em contato comigo: email ou linkedin / How to reach me: email or linkedin.
 
