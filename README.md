@@ -26,3 +26,6 @@
  
 #### Segundo desafio:
 <img height="400em" width="400em" align="center" src="badge-sprint2.png"/>
+
+#### Terceiro desafio:
+<img heigth="400em" width="400em" align="center" src="badge-sprint-frontend.png"/>
