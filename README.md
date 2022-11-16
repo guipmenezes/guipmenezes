@@ -1,6 +1,6 @@
 ### Hello World 👋🌎
 
-- 🌱 Atualmente aprendendo Spring com Java / I’m currently learning Spring with Java.
+- 🌱 Atualmente aprendendo Kotlin / I’m currently learning Kotlin.
 - 📚 Estudante da Oracle Next Education / Student in Oracle Next Education.
 - 📫 Para entrar em contato comigo: email ou linkedin / How to reach me: email or linkedin.
 
