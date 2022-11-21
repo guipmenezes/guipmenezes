@@ -1,6 +1,7 @@
 ### Hello World 👋🌎
 
 - 🌱 Atualmente aprendendo Kotlin / I’m currently learning Kotlin.
+- ☕ Projeto em andamento: Hotel Alura / Actually working on the project: Hotel Alura
 - 📚 Estudante da Oracle Next Education / Student in Oracle Next Education.
 - 📫 Para entrar em contato comigo: email ou linkedin / How to reach me: email or linkedin.
 
