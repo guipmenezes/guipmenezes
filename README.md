@@ -37,3 +37,6 @@
 
 #### Quinto desafio:
 <img heigth="400em" width="400em" align="center" src="badge-java-sprint-1.png"/>
+
+#### Sexto desafio:
+<img height="400em" width="400em" align="center" src="badge-java-sprint-2.png"/>
