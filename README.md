@@ -1,6 +1,6 @@
 ### Hello World 👋🌎
 
-- 🌱 Atualmente aprendendo Framework Spring/ I’m currently learning Spring framework.
+- 🌱 Atualmente aprendendo Spring Cloud/ I’m currently learning Spring Cloud.
 - ☕ Projeto em andamento: API Hotel Alura com Spring Boot/ Actually working on the project: Hotel Alura API with Spring Boot
 - 📫 Para entrar em contato comigo: email ou linkedin / How to reach me: email or linkedin.
 - 📚 Aqui no meu github eu posto todos os projetos ou desafios requisitados elaborados por mim, fora os projetos realizados em cursos / Here in my github, I post all my personal projects or challenges that was requested, apart from the projects done in courses. 
@@ -24,19 +24,19 @@
 ### Badges Oracle Next Education:
   
 #### Primeiro desafio:
-<img height="400em" width="400em" align="center" src="badge-sprint1.png"/>
+<img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
  
 #### Segundo desafio:
-<img height="400em" width="400em" align="center" src="badge-sprint2.png"/>
+<img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
 
 #### Terceiro desafio:
-<img heigth="400em" width="400em" align="center" src="badge-sprint-frontend.png"/>
+<img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
 
 #### Quarto desafio:
-<img heigth="400em" width="400em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
+<img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
 
 #### Quinto desafio:
-<img heigth="400em" width="400em" align="center" src="badge-java-sprint-1.png"/>
+<img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
 
 #### Sexto desafio:
-<img height="400em" width="400em" align="center" src="badge-java-sprint-2.png"/>
+<img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
