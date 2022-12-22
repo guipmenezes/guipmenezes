@@ -22,6 +22,7 @@
   </div>
   
   <h3>Badges Oracle Next Education:</h3>
+  <br>
   <div style="display: inline-block"><br>
     <h4>Primeiro desafio:</h4>
     <img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
