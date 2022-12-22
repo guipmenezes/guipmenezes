@@ -22,21 +22,22 @@
   </div>
   
 ### Badges Oracle Next Education:
-  
-#### Primeiro desafio:
-<img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
- 
-#### Segundo desafio:
-<img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
+<div style="display: inline-block">  
+  #### Primeiro desafio:
+  <img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
 
-#### Terceiro desafio:
-<img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
+  #### Segundo desafio:
+  <img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
 
-#### Quarto desafio:
-<img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
+  #### Terceiro desafio:
+  <img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
 
-#### Quinto desafio:
-<img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
+  #### Quarto desafio:
+  <img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
 
-#### Sexto desafio:
-<img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
+  #### Quinto desafio:
+  <img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
+
+  #### Sexto desafio:
+  <img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
+</div>
