@@ -25,19 +25,19 @@
   <div style="display: inline-block"><br>
     <h4>Primeiro desafio:</h4>
     <img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
-
+    <br>
     <h4>Segundo desafio:</h4>
     <img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
-
+    <br>
     <h4>Terceiro desafio:</h4>
     <img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
-
+    <br>
     <h4>Quarto desafio:</h4>
     <img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
-
+    <br>
     <h4>Quinto desafio:</h4>
     <img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
-
+    <br>
     <h4>Sexto desafio:</h4>
     <img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
   </div>
