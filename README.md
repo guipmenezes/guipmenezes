@@ -25,7 +25,7 @@
   <br>
   <div style="display: inline-block"><br>
     <h4>Primeiro desafio:</h4>
-    <img height="200em" width="200em" src="badge-sprint1.png"/>
+    <img height="200" width="200" src="badge-sprint1.png"/>
     <h4>Segundo desafio:</h4>
     <img height="200em" width="200em" src="badge-sprint2.png"/>
     <h4>Terceiro desafio:</h4>
