@@ -1,4 +1,4 @@
-### Hello World 👋🌎
+<h1> Hello World 👋🌎 </h1>
 
 - 🌱 Atualmente aprendendo Spring Cloud/ I’m currently learning Spring Cloud.
 - ☕ Projeto em andamento: API Hotel Alura com Spring Boot/ Actually working on the project: Hotel Alura API with Spring Boot
@@ -21,23 +21,23 @@
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </div>
   
-### Badges Oracle Next Education:
-<div style="display: inline-block">  
-  #### Primeiro desafio:
+  <h3>Badges Oracle Next Education:</h3>
+<div style="display: inline-block"><br>
+  <h4>Primeiro desafio:</h4>
   <img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
 
-  #### Segundo desafio:
+  <h4>Segundo desafio:</h4>
   <img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
 
-  #### Terceiro desafio:
+  <h4>Terceiro desafio:</h4>
   <img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
 
-  #### Quarto desafio:
+  <h4>Quarto desafio:</h4>
   <img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
 
-  #### Quinto desafio:
+  <h4>Quinto desafio:</h4>
   <img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
 
-  #### Sexto desafio:
+  <h4>Sexto desafio:</h4>
   <img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
 </div>
