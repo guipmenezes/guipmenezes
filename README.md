@@ -25,20 +25,15 @@
   <br>
   <div style="display: inline-block"><br>
     <h4>Primeiro desafio:</h4>
-    <img height="200em" width="200em" align="center" src="badge-sprint1.png"/>
-    <br>
+    <img height="200em" width="200em" src="badge-sprint1.png"/>
     <h4>Segundo desafio:</h4>
-    <img height="200em" width="200em" align="center" src="badge-sprint2.png"/>
-    <br>
+    <img height="200em" width="200em" src="badge-sprint2.png"/>
     <h4>Terceiro desafio:</h4>
-    <img heigth="200em" width="200em" align="center" src="badge-sprint-frontend.png"/>
-    <br>
+    <img heigth="200em" width="200em" src="badge-sprint-frontend.png"/>
     <h4>Quarto desafio:</h4>
-    <img heigth="200em" width="200em" align="center" src="badge-sprint-ecommerce-alurageek.png"/>
-    <br>
+    <img heigth="200em" width="200em" src="badge-sprint-ecommerce-alurageek.png"/>
     <h4>Quinto desafio:</h4>
-    <img heigth="200em" width="200em" align="center" src="badge-java-sprint-1.png"/>
-    <br>
+    <img heigth="200em" width="200em" src="badge-java-sprint-1.png"/>
     <h4>Sexto desafio:</h4>
-    <img height="200em" width="200em" align="center" src="badge-java-sprint-2.png"/>
+    <img height="200em" width="200em" src="badge-java-sprint-2.png"/>
   </div>
