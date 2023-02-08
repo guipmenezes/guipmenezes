@@ -1,9 +1,9 @@
 <h1> Hello World 👋🌎 </h1>
 
-- 🌱 Atualmente aprendendo Spring Cloud/ I’m currently learning Spring Cloud.
+- 📚 Pós-graduação em Desenvolvimento Full Stack em andamento / Post Graduate in Full Stack Development (Software Engineer) in progress.
+- 🌱 Atualmente aprendendo CI/CD / I’m currently learning CI/CD.
 - ☕ Projeto em andamento: Microsserviço Hotel Alura com Spring Boot e Spring Cloud/ Actually working on the project: Hotel Alura Microservice with Spring Boot and Spring Cloud
 - 📫 Para entrar em contato comigo: email ou clique nos meus github stats / How to reach me: email or click on my github stats.
-- 📚 Aqui no meu github eu posto todos os projetos ou desafios requisitados elaborados por mim, fora os projetos realizados em cursos / Here in my github, I post all my personal projects or challenges that was requested, apart from the projects done in courses. 
 
 ##
 
