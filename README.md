@@ -9,7 +9,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/menezesguilherme/">
-    ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipmenezes&show_icons=true)
   <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=guipmenezes&show-icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
   <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipmenezes&layout=compact&langs_count=16&theme=dark"/>
@@ -25,7 +24,7 @@
   
   <h3>Badges Oracle Next Education:</h3>
   <br>
-  <div style="display: inline-block"><br>
+  <div style="display: flex"><br>
     <h4>Primeiro desafio:</h4>
     <img align="center" height="200" width="200" src="badge-sprint1.png"/>
     <h4>Segundo desafio:</h4>
