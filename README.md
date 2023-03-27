@@ -1,7 +1,7 @@
 <h1> Hello World 👋🌎 </h1>
 
 - 📚 Pós-graduação em Desenvolvimento Full Stack em andamento / Post Graduate in Full Stack Development (Software Engineer) in progress.
-- 🌱 Atualmente aprendendo Mensagerias / I’m currently learning Message Queue.
+- 🌱 Atualmente aprendendo Docker e CI/CD / I’m currently learning Docker and CI/CD.
 - ☕ Projeto em andamento: Microsserviço Hotel Alura com Spring Boot e Spring Cloud/ Actually working on the project: Hotel Alura Microservice with Spring Boot and Spring Cloud
 - 📫 Para entrar em contato comigo: email ou clique nos meus github stats / How to reach me: email or click on my github stats.
 
