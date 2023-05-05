@@ -20,21 +20,8 @@
     <img align="center" alt="HTML" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  </div>
-  
-  <h3>Badges Oracle Next Education:</h3>
-  <br>
-  <div style="display: flex"><br>
-    <h4>Primeiro desafio:</h4>
-    <img align="center" height="200" width="200" src="badge-sprint1.png"/>
-    <h4>Segundo desafio:</h4>
-    <img align="center" height="200em" width="200em" src="badge-sprint2.png"/>
-    <h4>Terceiro desafio:</h4>
-    <img align="center" heigth="200em" width="200em" src="badge-sprint-frontend.png"/>
-    <h4>Quarto desafio:</h4>
-    <img align="center" heigth="200em" width="200em" src="badge-sprint-ecommerce-alurageek.png"/>
-    <h4>Quinto desafio:</h4>
-    <img align="center" heigth="200em" width="200em" src="badge-java-sprint-1.png"/>
-    <h4>Sexto desafio:</h4>
-    <img align="center" height="200em" width="200em" src="badge-java-sprint-2.png"/>
+    <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" alt="Amazon Web Services" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img align="center" alt="Apache Tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
+    <img align="center" alt="Jenkins" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   </div>
