@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Back-end Java com conhecimento em Java Web e Framework Spring, alinhado com a cultura DevOps.
 - 📚 Pós-graduação em Desenvolvimento Full Stack em andamento / Post Graduate in Full Stack Development (Software Engineer) in progress.
-- 🌱 Atualmente aprendendo AWS e Jenkins / I’m currently learning AWS and Jenkins.
+- 🌱 Atualmente aprendendo Segurança de Software / I’m currently learning Software Security.
 - ☕ Projeto em andamento: Microsserviço Hotel Alura com Spring Boot e Spring Cloud/ Actually working on the project: Hotel Alura Microservice with Spring Boot and Spring Cloud
 - 📫 Para entrar em contato comigo: email ou clique nos meus github stats / How to reach me: email or click on my github stats.
 
