@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/menezesguilherme/">
   <img height = "160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guipmenezes&show-icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
-  <img height = "160em" src="https://github-readme-stats-phi-six-69.vercel.app/api/top-langs/?username=guipmenezes&layout=compact&langs_count=16&theme=dark"/>
+  <img height = "160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guipmenezes&layout=compact&langs_count=16&theme=dark"/>
 </div>   
   
   
