@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Guilherme
-#### I am a Java Fullstack Developer
+#### I am a Fullstack Developer
 
-I'm from Brazil, and I do Software Development, specializing in back-end with Java. I really enjoy learning everything about technology, especially the development of applications for the cloud, and Message Oriented Middlewares.
+I'm from Brazil, and I do Software Development, specializing in back-end. I really enjoy learning everything about technology, especially the development of applications for the cloud, and Message Oriented Middlewares.
 
 ## Skills and experience:
 - ☕ Java
