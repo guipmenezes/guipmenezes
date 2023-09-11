@@ -5,6 +5,7 @@ I'm from Brazil, and I do Software Development, specializing in back-end with Ja
 
 ## Skills and experience:
 - ☕ Java
+- 🔻 Ruby
 - 🍃 Spring Framework
 - 🅰️ Angular
 - 🐳 Docker
